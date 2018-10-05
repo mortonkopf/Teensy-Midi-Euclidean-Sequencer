@@ -22,21 +22,37 @@ https://www.youtube.com/watch?time_c...&v=LcVSN1q02Mg
 
 Current Features:
 4 tracks, 16 steps
+
 4 channel Midi over USB
+
 midi clock divider per channel
+
 - "1/1","1/2","1/4","1/8","1/16","1/32" note 
+
 internal or external clock
+
 automatic switch to external clock if present at startup
+
 start / stop sync with external DAW midi byte
+
 memory saved to SD card
+
 32 memory slot save and recall
+
 USB powered
+
 adjust step number per channel
+
 adjust hit/beat number per channel
+
 adjust offset value per channel
+
 on/off per channel
+
 step location indicator per channel
+
 setting display on oled
+
 absolutely no deep dive menu
 
 The sequencer automatically uses external midi clock if present when switched on, otherwise uses internal clock that can be controlled by one of the rotary encoders.
