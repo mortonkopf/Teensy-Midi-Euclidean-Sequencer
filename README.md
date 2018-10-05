@@ -65,30 +65,53 @@ I wanted to try and use software only debounce rather than hardware debounce as 
 
 Connections for the Teensy 3.5 euclidean sequencer usbMIDI
 connected to - pin ---- pin - connected to
-------------------------------------------
+
 all enc /etc - Gnd -----VIN - all enc /etc
+
 Save fr MIDI - 0 -----A-GND -
+
 Save fr MIDI - 1 ------3.3v -
+
 rot1 left ---- 2 --------23 - button4
+
 rot1 switch -- 3 --------22 - button3
+
 rot1 right --- 4 --------21 - button2
+
 - 5 --------20 - button1
+
 rot1 blue ---- 6 --------19 - Screen SCL i2c
+
 rot1 green --- 7 --------18 - Screen SDA i2c
+
 rot1 red ----- 8 --------17 - rot2 switch
+
 - 9 --------16 - rot2 blue
+
 neopix rings - 10 -------15 - rot2 green
+
 rot2 left ---- 11 -------14 - rot2 red
+
 rot2 right --- 12 -------13 - 
+
 - 3.3v ----GND -
+
 rot3 right --- 24 -----DAC1 - (analogue only) save for CV out
+
 rot3 left ---- 25 -----DAC0 - (analogue only) save for CV out
+
 rot3 red------ 26 -------39 - rot4 switch
+
 rot3 green --- 27 -------38 - rot4 blue
+
 rot3 blue ---- 28 -------37 - rot4 green
+
 save(timer3)-- 29 -------36 - rot4 red
+
 save(timer3)-- 30 -------35 - rot4 right
+
 rot3 switch -- 31 -------34 - rot4 left
+
 - 32 -------33 -
 
 
