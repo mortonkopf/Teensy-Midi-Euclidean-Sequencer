@@ -126,9 +126,6 @@ BOM
 connectors, solder, header pins, socket, etc.
 
 References:
-GitHub Code for this project is found at:
-https://github.com/mortonkopf
-
 display.cpp - Display class with printf() and human-readable units from Tiny Scope for Arduino project - Copyright (C)2015 Laurentiu Badea
 
 Euclid calculation functions are taken directly from http://clsound.com/euclideansequenc.html - acknowledgment to Craig Lee 
